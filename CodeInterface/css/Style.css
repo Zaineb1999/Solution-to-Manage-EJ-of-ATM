@@ -1,0 +1,103 @@
+/*  +++++++ debut edit pwd ++++++   */
+
+.editpwd h1,h2{
+    color: blue;
+}
+
+.editpwd h1{
+    font-size: 45px;
+}
+
+
+.editpwd h2{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.editpwd form{
+    width: 400px;
+    margin: auto;
+}
+
+.editpwd input{
+    margin-bottom: 20px;
+}
+
+.input-container {
+    position: relative;
+    margin-bottom: 10px;
+}
+
+.show-old-pwd,.show-new-pwd {
+    position: absolute;
+    top: 0px;
+    right: -35px;
+}
+
+
+/*  +++++++ fin edit pwd ++++++   */
+
+.navbar {
+  padding:0px; margin:0px;
+  height: 80px; /*la hauteur du menu*/
+  background-color: navy;
+}
+
+.navbar-header {
+	padding-left: 200px; 
+}
+.navbar-nav {
+	font-size: 25px; /*taille de police du menu*/
+	padding-top: 15px; /*justification des éléments du menu par rapport à sa hauteur*/
+
+}
+.dropdown-menu{
+	font-size: 25px; /*taille de police du dropdown de menu*/
+}
+.navbar-brand {
+	padding:1px; /*justification du logo par rapport au menu*/
+}
+.margin1{
+	margin-top:140px;
+}
+
+#pannel{
+	font-size:25px; /*taille de police */
+
+}
+
+.gray {
+	background-color:#D3D3D3;
+}
+/*Import Auto*/
+.margin2IM{
+padding-left: 20px;
+}
+.margin3IM{
+	padding-left:500px;
+}
+/*Arret*/
+.marginA {
+	padding-left:450px;
+}
+/*Redemarrage*/
+.marginR {
+	padding-left:430px;
+}
+/*Accueil*/
+
+.jumbotron{
+		margin-top:80px;
+		background-color:#C0D0FE;
+        padding-left:200px;
+}
+
+/*Fin accueil*/
+
+
+
+
+
+
+
+
